@@ -19,5 +19,8 @@ public class Some2 {} //Error
 */
 
 
-public class Exam1 {}
-class Some2 {}
+public class Exam1 {
+}
+
+class Some2 {
+}
