@@ -69,5 +69,7 @@ public class Exam2 {
         getThread.start();
         addThread.start();
 
+
+
     }
 }
